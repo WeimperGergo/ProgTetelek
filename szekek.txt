@@ -1,0 +1,4 @@
+Szék azonosító;szín;lábszám
+Szék1;kék;3
+Szék2;lila;4
+Szék3;zöld;5
