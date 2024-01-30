@@ -1,3 +1,2 @@
 import osszegzes
 
-osszegzes.osszegez()
