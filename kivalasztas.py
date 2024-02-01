@@ -6,11 +6,14 @@ def kivalasztas():
     n = 9999
     while not prim:
         n += 1
-        i = 2
+        i = 2  # a feltétel        b feltétel
         while i <= math.sqrt(n) and n % i != 0:
             i += 1
         prim = i > math.sqrt(n)
     print(n)
+    # a = Sorozat hossza
+    # b = Aktuáls elem prím-e?
+
 
 
 def osztok(szam):
