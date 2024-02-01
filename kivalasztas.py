@@ -15,7 +15,6 @@ def kivalasztas():
     # b = Aktuáls elem prím-e?
 
 
-
 def osztok(szam):
     szamok = []
     for i in range(2, int(math.sqrt(szam))):
@@ -49,3 +48,8 @@ nSzam = 10007
 # kiiras(szamLista)
 # kiiras(szamListaWhile)
 kivalasztas()
+
+
+
+
+
